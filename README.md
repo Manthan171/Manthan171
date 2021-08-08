@@ -1,9 +1,5 @@
 <h2> Hey there!👋  I'm Manthan.</h2>
 
-<!--
-**RonakNandanwar26/RonakNandanwar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
 - 🎓 &nbsp; Studying Information Technology at Shri S'ad Vidya Mandal Institute Of Technology.🎓
 - 🤔 &nbsp; Learing and exploring new technologies and developing web solutions.
