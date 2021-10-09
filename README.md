@@ -2,7 +2,7 @@
 
 -->
 - 🎓 &nbsp; Studying Information Technology at Shri S'ad Vidya Mandal Institute Of Technology.🎓
-- 🤔 &nbsp; Learing and exploring new technologies and developing web solutions.
+- 🤔 &nbsp; Learning and exploring new technologies and developing web solutions.
 - 💼 &nbsp; Worked as Python and Django trainee at Silverwing Technologies Pvt Ltd.
 - 🤔 &nbsp; I’m looking for internship/job in Full Stack Developer
 - ✍️ &nbsp; Pursuing ReactJS and React Native.
